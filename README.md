@@ -1,4 +1,5 @@
-![Uploading Screenshot 2024-07-17 002553.png…]()
+![Screenshot 2024-07-17 002553](https://github.com/user-attachments/assets/83e570a1-3ffd-47e2-b737-3dd860c4057d)
+
 ![Screenshot 2024-07-17 002951](https://github.com/user-attachments/assets/9e5bed48-53cd-4e95-83ca-b95104d2a6a2)
 ![Screenshot 2024-07-17 003103](https://github.com/user-attachments/assets/318acb3c-d5e0-4145-9f62-69538451e5a9)
 # HealthChallengeTracker
